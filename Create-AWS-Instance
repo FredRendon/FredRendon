@@ -1,0 +1,8 @@
+provider "aws" {
+  region = "us-east-2"
+}
+
+resource "aws_instance" "terraformLap" {
+  ami           = "ami-08d478a1c92e05874"
+  instance_type = "t2.micro"
+}
