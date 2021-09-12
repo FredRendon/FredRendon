@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FredRendon
-- 👀 I’m interested in devops code
+- 👀 I’m interested in devops
 - 🌱 I’m currently learning DevOps, AWS, python, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rendonfred@gmail.com
